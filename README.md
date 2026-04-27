@@ -21,9 +21,16 @@ How This Code Works ?
 
 Code Structure/
 ├── IPizza.cs           # Product interface
+
 ├── pizzaCheese.cs      # Concrete product
-├── pizzaPepperoni.cs   # Concrete product  
+
+├── pizzaPepperoni.cs   # Concrete product 
+
 ├── pizzaSeafood.cs     # Concrete product
+
 ├── pizzaFactory.cs     # Factory class with creation logic
+
 ├── PizzaType.cs        # Enum for pizza types
+
 └── Program.cs          # Client code demonstrating usage
+
